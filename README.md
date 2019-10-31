@@ -59,7 +59,7 @@
     
         1. Instalação do node;
         2. Execução do comando npm install -g feature-express;
-        3. Execução do comando feature-express [caminho/para/arquivos/feature/] pt [4444]
+        3. Execução do comando feature-express [caminho/para/arquivos/feature/] pt 4444
 
     O tutorial de instalação mais detalhado e com outras dicas pode ser encontrado no link abaixo:
 <https://medium.com/assertqualityassurance/feature-express-uma-forma-elegante-de-expor-as-features-criadas-para-os-stakeholders-4dc2e46934f7>
