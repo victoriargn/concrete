@@ -2,11 +2,17 @@
 
 ## *Objetivo*
 
-    Aplicação utilizada: Tesouro Direto
-
-    Escrita de uma especificação relacionada à funcionalidade Login, a qual possui tags relacionadas às camadas
-    da aplicação onde os testes deverão ser executados após suas implementações.
-
+    O onboarding foi composto pela construção da especificação relacionada à funcionalidade Login da aplicação Tesouro
+    Direto e a abordagem dos seguintes temas:
+        
+      1. Baseando-se na pirâmide de testes, utilizar tags que identifiquem os cenários de acordo com as camadas da
+      aplicação a ser testada, seja ela unitária, de serviço ou interface de usuário;
+      2. A importância do entendimento sobre a qualidade ser de responsabilidade de todos os membros do time e não
+      somente do QA;
+      3. A grande relevância da boa escrita de uma especificação e qual o seu público alvo;
+      4. Quais pontos devem receber atenção ao categorizar um cenário de teste como smoke test e o porquê da sua
+      utilização.
+    
 ## *Legendas para as tags utilizadas*
 
     @smoke_test: indica o cenário prioritário para a funcionalidade, o qual deverá ser executado em todos os
