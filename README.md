@@ -22,7 +22,7 @@
 
 ## *Jornada de Usuário*  
 
-![Jornada de usuário para a funcionalidade login. Capturas das telas de login e home page, além da representação da API logon.](jornadaDeUsuarioLogin.png)
+![Jornada](jornadaDeUsuarioLogin.PNG)
 
 ## *Algumas ideias abordadas*
 
