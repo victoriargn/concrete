@@ -2,8 +2,8 @@
 
 ## *Objetivo*
 
-    O onboarding foi composto pela construção da especificação relacionada à funcionalidade Login da aplicação Tesouro
-    Direto e a abordagem dos seguintes temas:
+    O onboarding foi composto pela construção da especificação relacionada à funcionalidade Login da aplicação
+    Tesouro Direto e a abordagem dos seguintes temas:
         
       1. Baseando-se na pirâmide de testes, utilizar tags que identifiquem os cenários de acordo com as camadas da
       aplicação a ser testada, seja ela unitária, de serviço ou interface de usuário;
