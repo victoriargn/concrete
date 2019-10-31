@@ -49,7 +49,7 @@
 
 ## *Feature-Express*
 
-    Esta ferramenta open source nos permite apresentar um ou mais arquivos .feature de maneira agradável e organizada.
+    Esta ferramenta nos permite apresentar um ou mais arquivos .feature de maneira agradável e organizada.
     Recomendevável utilizá-la quando for necessário apresentar os cenários das features aos stakeholders, havendo
     foco visual somente no que interessa: a feature.
 
