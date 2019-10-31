@@ -14,7 +14,7 @@ Cenário: Realizar login com sucesso
     Quando realizar o login com dados válidos
     Então a home page da aplicação é exibida
 
-@done
+@servico
 Cenário: Realizar login com um usuário não cadastrado
     Dado que eu tenha um usuário não cadastrado
     Quando realizar o login
@@ -46,9 +46,3 @@ Cenário: Verificar botão Entrar desabilitado ao preencher os campos para login
     Quando preencher o CPF
     E preencher a senha com menos de seis caracteres
     Então o botão Entrar deve permanecer desabilitado
-
-@servico
-Cenário: Realizar login com um usuário não cadastrado
-    Dado que eu tenha um usuário não cadastrado
-    Quando realizar o login
-    Então visualizo uma mensagem de erro
